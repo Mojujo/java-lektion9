@@ -1,4 +1,4 @@
-package se.oscar;
+package se.oscar.associationer;
 
 public class Main {
     public static void main(String[] args) {
